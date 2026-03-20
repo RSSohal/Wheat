@@ -17,8 +17,7 @@ Growth Stage: Early vegetative stage
 
 Images were collected directly from experimental field plots to ensure real-world relevance.
 
-**Image Acquisition
-**
+**Image Acquisition**
 Approximately 240 images per cultivar
 
 Captured under controlled natural lighting conditions
@@ -27,21 +26,21 @@ Uniform white background used to minimize noise
 
 Focus on fresh and undamaged leaves
 
-**🌿 Cultivars Included
-**
+**Cultivars Included**
+
 The dataset includes the following ten wheat cultivars:
 
 Black Wheat, DBW187, HD2967, HD3086, PBW766, PBW803, PBW824, PBW869, Unnat343, WH1105
 
 These cultivars exhibit variability in agronomic traits such as plant height, maturity duration, yield, and resistance to rust diseases.
 
-**Dataset Characteristics
-**
+**Dataset Characteristics**
+
 The dataset captures inherent variations in: Leaf shape and curvature, Venation patterns, Surface texture, Pigmentation
 
 This diversity provides a rich representation of cultivar-specific foliar features.
 
-📁 Dataset Structure
+**Dataset Structure**
 dataset/
 │
 
