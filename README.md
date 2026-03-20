@@ -32,21 +32,13 @@ Focus on fresh and undamaged leaves
 The dataset includes the following ten wheat cultivars:
 
 Black Wheat
-
 DBW187
-
 HD2967
-
 HD3086
-
 PBW766
-
 PBW803
-
 PBW824
-
 PBW869
-
 Unnat343
 
 WH1105
@@ -70,15 +62,25 @@ This diversity provides a rich representation of cultivar-specific foliar featur
 📁 Dataset Structure
 dataset/
 │
+
 ├── Black_Wheat/
+
 ├── DBW187/
+
 ├── HD2967/
+
 ├── HD3086/
+
 ├── PBW766/
+
 ├── PBW803/
+
 ├── PBW824/
+
 ├── PBW869/
+
 ├── Unnat343/
+
 └── WH1105/
 
 Each directory contains images corresponding to a specific cultivar.
