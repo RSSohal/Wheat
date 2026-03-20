@@ -1,13 +1,13 @@
-**Wheat Leaf Image Dataset
-**
+**Wheat Leaf Image Dataset**
+
 This repository provides a curated dataset of wheat leaf images collected under field conditions for studying cultivar-specific foliar characteristics.
 
 **Overview**
 
 The dataset consists of high-resolution leaf images from ten distinct wheat cultivars, captured to reflect natural variations in leaf morphology. It is designed to support research in plant phenotyping, computer vision, and agricultural analysis.
 
-**Data Collection
-**
+**Data Collection**
+
 Location: Student’s Research Farm, Department of Agriculture,
 Guru Nanak Dev University, Amritsar, India (31.63°N, 74.82°E)
 
