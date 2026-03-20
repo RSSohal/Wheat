@@ -41,7 +41,9 @@ The dataset captures inherent variations in: Leaf shape and curvature, Venation 
 This diversity provides a rich representation of cultivar-specific foliar features.
 
 **Dataset Structure**
+
 dataset/
+
 │
 
 ├── Black_Wheat/
